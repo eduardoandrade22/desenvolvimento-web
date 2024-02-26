@@ -7,3 +7,5 @@ O git é uma ferramenta onde desenvolvedores podem desenvolver juntos o mesmo pr
 A ferramenta python é uma linguagem de programação.
 
 4.sqlite Ele é o banco de dados interno do e oficial android https://www.sqlite.org/docs.html se relaciona aos conteúdos da matéria do ponto 8 que fala sobre a introdução sobre banco de dados.
+
+Desenvolvimento web segundo periodo 2024.1
